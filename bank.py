@@ -83,7 +83,7 @@ def bank():
             break  # Exit the loop after successfully previewing the account
 
         elif choice == 9:
-            print("Thank you for using Nectra Bank. Goodbye!")
+            print("Thank you for using Cloud Bank. Goodbye!")
             break  # Exit the loop and terminate the program
         else:
             print("Invalid choice! Please enter a number between 1 and 8.")
