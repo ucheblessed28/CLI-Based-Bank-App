@@ -1,0 +1,14 @@
+{
+    "9058878813": {
+        "accountName": "Uche Blessed",
+        "accountNumber": 9058878813,
+        "accountBalance": 0,
+        "KYC": false
+    },
+    "1234567890": {
+        "accountName": "Emma",
+        "accountNumber": 1234567890,
+        "accountBalance": 3000.0,
+        "KYC": true
+    }
+}
