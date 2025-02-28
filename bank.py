@@ -11,7 +11,7 @@ from deleteAccount import deleteAccount
 def bank():
     while True:
         print("=" * 50)
-        print("|             Welcome to Nectra Bank             |")
+        print("|             Welcome to Cloud Bank             |")
         print("=" * 50)
         print("_" * 50, "\n")
         print("|             Please Choose An Operation         |")
