@@ -44,7 +44,7 @@ def transfer():
 
                 # Check if transfer exceeds the maximum transfer limit
                 if amount > maxTransfer:
-                    print(f"Transfer limit exceeded! Maximum transfer limit is ${maxTransfer}.")
+                    print(f"Transfer limit exceeded! Maximum transfer limit is ${maxTransfer}. \nOr update your KYC status!")
                 elif amount > accounts[senderAccount]['accountBalance']:
                     print("Insufficient funds! Please enter a valid amount.")
                 else:

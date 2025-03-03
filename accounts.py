@@ -1,1 +1,12 @@
-accounts = {}
+accounts = {   '2692286211': {   'KYC': True,
+                      'accountBalance': 9975000.0,
+                      'accountName': 'Uche Blessed',
+                      'accountNumber': '2692286211',
+                      'email': 'uche@gmail.com',
+                      'phoneNumber': '07069081100'},
+    '8525421175': {   'KYC': True,
+                      'accountBalance': 26000.0,
+                      'accountName': 'Ima-abasi Uche',
+                      'accountNumber': '8525421175',
+                      'email': 'imaabasi@gmail.com',
+                      'phoneNumber': '08134011210'}}
